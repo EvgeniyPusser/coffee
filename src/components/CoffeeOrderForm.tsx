@@ -12,11 +12,11 @@ interface Props {
 // Coffee configuration per type
 const coffeeOptions = {
   espresso: {
-    flavors: ['none', 'vanilla'],
+    flavors: ['none', 'vanilla', 'lemon tarts', 'orange-infused chocolate'],
     sizes: ['short', 'tall'],
   },
   cappuccino: {
-    flavors: ['vanilla', 'caramel'],
+    flavors: ['vanilla', 'caramel', 'mocha/chocolate', 'cinnamon'],
     sizes: ['tall', 'grand'],
   },
   latte: {
